@@ -53,7 +53,7 @@ npm run devstart
 While all members worked as full stack engineers to develop features, we also had these additional roles:
 
 |   |  |
-| Role | Name |
+| ------------- | ------------- |
 | Product Managers  | [Joy Parker](https://github.com/Parkerjn90) &  [Sonia Ann Friscia](https://github.com/SoniaAnn)  |
 | UI Leads  |[Kayla Kranzfelder](https://github.com/KKranzfelder) |
 | Back End App Architects  | [Philip Koller](https://github.com/PhilipKoller) & [Irvin Solano](https://github.com/irvin-solano) & [Po Chang Chen](https://github.com/kk741852963tw) |
