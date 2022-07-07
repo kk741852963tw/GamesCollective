@@ -1,6 +1,7 @@
 # GamesCollective
-GamesCollective is a game collection website that allows game lovers to connect, collect games they love, and share their comments to other users . This is the culmination of eight engineers working closely over the course of one week to complete an MVP based on client's request.
+GamesCollective is a platform agnostic game library. Users can save their own collections of games, chat with other users about their favorite games on game threads, and rate their games.
 
+![gamescollective](https://user-images.githubusercontent.com/97041979/177774974-72f06ebd-7f0e-4300-9aa4-477955807416.gif)
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
@@ -54,7 +55,8 @@ While all members worked as full stack engineers to develop features, we also ha
 
 |   |  |
 | ------------- | ------------- |
-| Product Managers  | [Joy Parker](https://github.com/Parkerjn90) &  [Sonia Ann Friscia](https://github.com/SoniaAnn)  |
-| UI Leads  |[Kayla Kranzfelder](https://github.com/KKranzfelder) |
+| Product Managers  | [Joy Parker](https://github.com/Parkerjn90) & [Sonia Ann Friscia](https://github.com/SoniaAnn)  |
+| Architecture Owner  | [Brice Koppin](https://github.com/Bkoppin) |
+| UI/UX Owner  | [Kayla Kranzfelder](https://github.com/KKranzfelder) |
+| Front End App Architects  | [Benjamin Thornton](https://github.com/benjaminlthornton) |
 | Back End App Architects  | [Philip Koller](https://github.com/PhilipKoller) & [Irvin Solano](https://github.com/irvin-solano) & [Po Chang Chen](https://github.com/kk741852963tw) |
-| Front End App Architects  | [Brice Koppin](https://github.com/Bkoppin) & [Benjamin Thornton](https://github.com/benjaminlthornton) |
